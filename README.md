@@ -10,7 +10,7 @@ formation.
 ## Description
 
 The model loosely incorporates elements of the
-[SIR model]([SIR (susceptible-infectious-removed) model](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIR_model))
+([SIR (susceptible-infectious-removed) model](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIR_model))
 Grasshoppers are treated as 'susceptible', capable of turning into locusts.
 A grasshopper can be 'infected' (i.e., turn into a locust) by making contact
 with a sufficient number of other grasshoppers & locusts within a prescribed
