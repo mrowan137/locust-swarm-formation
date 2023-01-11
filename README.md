@@ -17,7 +17,7 @@ Grasshoppers are treated as 'susceptible', capable of turning into locusts.
 A grasshopper can be 'infected' (i.e., turn into a locust) by making contact
 with a sufficient number of other grasshoppers & locusts within a prescribed
 window of time (the criterion is motivated by the idea that
-[overcrowding induces swarm behavior](Locust Dynamics: Behavioral Phase Change and Swarming)).
+[overcrowding induces swarm behavior](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3420939/)).
 A locust is treated as 'removed', in the sense that once it
 turns into a locust, it remains a locust (i.e., it could not be 'infected'
 again).
