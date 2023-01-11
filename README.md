@@ -4,7 +4,9 @@ Computational model of locust swarm formation, implemented in
 to explore the notion of 'critical density', and how that affects swarm
 formation.
 
-<img src="https://github.com/mrowan137/locust-swarm-formation/blob/main/docs/demo/locust_swarm_formation_demo.gif">
+<p align="center">
+  <img src="https://github.com/mrowan137/locust-swarm-formation/blob/main/docs/demo/locust_swarm_formation_demo.gif">
+</p>
 
 
 ## Description
