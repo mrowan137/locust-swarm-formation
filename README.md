@@ -41,7 +41,7 @@ Model parameters:
   initialized as grasshoppers)
 * `locust-mobility`: distance a locust moves per cycle
 * `vision`: distance around a locust within which other locusts are
-  considered as swarm-mates
+  considered as swarm mates
 * `minimum-separation`: distance below which a locust will separate from its
   nearest neighbor, and above which it aligns to the average swarm heading
 * `max-align-turn`: maximum turn angle allowed by a locust aligning to the
